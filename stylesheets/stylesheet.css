@@ -46,6 +46,10 @@ h1{
 }
 .footer{
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2em;
+  font-size: 0.8em;
 }
 @media (min-width: 992px) {
   .section{
